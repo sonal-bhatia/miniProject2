@@ -72,6 +72,7 @@
 			children = (
 				86D4028F24DC5F840042FF78 /* AppDelegate.swift */,
 				86D4029124DC5F840042FF78 /* SceneDelegate.swift */,
+				86D4029524DC5F840042FF78 /* Main.storyboard */,
 				86D4029324DC5F840042FF78 /* ViewController.swift */,
 				86D402A524DCD2540042FF78 /* secondViewController.swift */,
 				8602EB3524DCD487000E4C6B /* thirdViewController.swift */,
@@ -80,7 +81,6 @@
 				861647D924DCDA8B00A0FA2F /* sixthViewController.swift */,
 				861647DB24DCDAAF00A0FA2F /* seventhViewController.swift */,
 				861647DD24DCDAD500A0FA2F /* eighthViewController.swift */,
-				86D4029524DC5F840042FF78 /* Main.storyboard */,
 				86D4029824DC5F850042FF78 /* Assets.xcassets */,
 				86D4029A24DC5F850042FF78 /* LaunchScreen.storyboard */,
 				86D4029D24DC5F850042FF78 /* Info.plist */,
